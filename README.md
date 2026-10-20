@@ -6,7 +6,6 @@ style="border-radius: 50%; border: 4px solid white; box-shadow: 0 0 8px rgba(0,0
 <h1 align="center">StudySphere</h1>
 <p align="center"><b>🌍 Your Global Campus for Collaborative Learning 🌍</b></p>
 <p align="center">
-<img alt="Platform" src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge">
 <img alt="Status" src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge">
 <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
